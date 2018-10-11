@@ -1,5 +1,6 @@
-# 卜算子 www.busuanzi.org
-一个开源实战组织。
+# 卜算子 www.xiaolei.wang
+
+开源+实战——大数据、机器学习
 
 
 ----
